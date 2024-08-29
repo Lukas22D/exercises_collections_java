@@ -1,18 +1,6 @@
-## Getting Started
+## Este repositório oferece uma coleção abrangente de exercícios práticos para aprimorar suas habilidades em:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Lógica de Programação:** Desenvolva seu raciocínio lógico através de desafios que exigem a resolução de problemas e a construção de algoritmos eficientes.
+**Programação Orientada a Objetos (POO):** Domine os conceitos fundamentais da POO, como classes, objetos, herança, polimorfismo e encapsulamento, aplicando-os na **construção de soluções estruturadas e reutilizáveis.**
+**Collections em Java:** Explore as diversas estruturas de dados oferecidas pelo Java, como listas, conjuntos, mapas e filas, compreendendo suas características e escolhendo a mais adequada para cada situação.
+**Stream API:** Utilize a poderosa Stream API do Java 8 para processar coleções de dados de forma declarativa, realizando operações como filtragem, mapeamento, redução e ordenação de maneira elegante e eficiente.
